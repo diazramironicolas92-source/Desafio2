@@ -1,0 +1,35 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: beige;
+}
+img{
+    max-width: 100%;
+    margin-bottom: 3rem;
+}
+.header{
+    background-image: url(../img/fondo.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 12rem;
+    margin-bottom: 3rem;
+}
+
+h1, h3{
+    margin-left: 2rem;
+}
+td{
+    width: 50%;
+}
+.main{
+    width: 80%;
+    margin: auto;
+    
+}
+td p{
+    margin-left: 3rem;
+}
+.footer{
+    background-color: whitesmoke ;
+    text-align: center;
+    padding: 2rem;
+}
